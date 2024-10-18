@@ -1,11 +1,11 @@
 <h1 align="center" style="color:purple;">Hi 👋, I'm Nachiappan</h1>
 <h3 align="center" style="color:black;">A passionate explorer delving into the realms of Data Science and backend development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=crs7617&label=Profile%20views&color=0e75b6&style=flat" alt="crs7617" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NachiappanRavi&label=Profile%20views&color=0e75b6&style=flat" alt="NachiappanRavi" /> </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=crs7617&theme=monokai" alt="crs7617" />
+    <img src="https://github-profile-trophy.vercel.app/?username=NachiappanRavi&theme=monokai" alt="NachiappanRavi" />
   </a>
 </p>
 
@@ -61,10 +61,10 @@
   </a>
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crs7617&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NachiappanRavi&theme=chartreuse_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crs7617&theme=chartreuse_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crs7617&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NachiappanRavi&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NachiappanRavi&theme=chartreuse_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=crs7617&theme=chartreuse_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=crs7617&theme=chartreuse_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NachiappanRavi&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NachiappanRavi&theme=chartreuse_dark&utcOffset=8)
